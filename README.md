@@ -66,7 +66,7 @@ WebView, 하드웨어 통신 등의 어플리케이션 서비스에 포함되는
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.notion.so/2ff62f744ff14d2eb7f1d66262cceed9?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/2ff62f744ff14d2eb7f1d66262cceed9?source=copy_link"> </a>
+    <div style="text-align: left;"> <a href=https://www.notion.so/2ff62f744ff14d2eb7f1d66262cceed9?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=[https://www.notion.so/2ff62f744ff14d2eb7f1d66262cceed9?source=copy_link](https://clean-glazer-ad8.notion.site/2ff62f744ff14d2eb7f1d66262cceed9?pvs=74)"> </a>
          <a href=mailto:kimbh0905@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kimbh0905@gmail.com"> </a>
           </div>  <br> 
     </div>
